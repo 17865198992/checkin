@@ -45,9 +45,8 @@ const glados = async () => {
 //   })
 // }
 
-// const main = async () => {
-//   await notify(await glados())
-// }
+const main = async () => {
+  await glados()
+}
 
-// main()
-glados()
+main()

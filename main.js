@@ -50,3 +50,4 @@ const glados = async () => {
 // }
 
 // main()
+glados()
